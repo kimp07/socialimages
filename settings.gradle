@@ -1,0 +1,8 @@
+rootProject.name = 'images'
+include 'repository'
+include 'domain'
+include 'service'
+include 'controller'
+include 'api'
+include 'localstorage'
+
